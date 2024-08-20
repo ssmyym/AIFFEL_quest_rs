@@ -32,3 +32,5 @@ AIFFEL_quest_rs
 	├── .ipynb
 	└── README.md
 ```
+
+리서치/이호창/부산
